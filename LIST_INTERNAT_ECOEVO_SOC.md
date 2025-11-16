@@ -7,7 +7,8 @@ filename: LIST_INTERNAT_ECOEVO_SOC.md
 > Back to [Main Page](/README.md).    
 
 
-# List of international societies from an earlier SORTEE project ([Lagisz et al. 2025](https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1430)).
+# List of international societies from an earlier SORTEE project 
+Source: ([Lagisz et al. 2025](https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1430)).
 
 | Nr | Full name of the society | Society info source |
 |----|---------------------------|---------------------|
