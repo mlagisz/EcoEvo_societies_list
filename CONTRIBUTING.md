@@ -9,16 +9,12 @@ filename: CONTRIBUTING.md
 
 # CONTRIBUTION GUIDE    
 
-
-**Our mission statement:** *Making science more collaborative and transparent.* 🌟  
-
-
 ## 💛  Contributing 
 
 We invite researchers at any career stage with a background in ecology and/or evolutionary biology and any related disciplines to contribute to the project. 
 All contributions will be acknowledged. Significant contributions (as outlined below), will warrant co-authorship.
 We will transparently track contributions of all project participants using the Dragon Kill Points approach and GREAT principles
-for co-authorship (Martinig et al.,https://doi.org/10.32942/X2W05K).    
+for co-authorship ([Martinig et al. 2025](https://doi.org/10.32942/X2W05K)).    
 
 In practice, this means:   
 
@@ -45,7 +41,7 @@ but will depend on the number of societies found for data extraction/checking, t
 valuing their unique perspectives and experiences as essential contributions to this work.**.  
 
 Authorship comes with all the following contributions and responsibilities:
-- If you are interested in becoming a co-author, you need to fill in the Expression Of Interest (EOI) form (https://forms.gle/N1ERrvN1GejamYcKA);
+- If you are interested in becoming a co-author, you need to fill in the Expression Of Interest (EOI) [form](https://forms.gle/N1ERrvN1GejamYcKA);
 some of the identifying information from this form will be visible to all team members (name, email, languages).
 
 - You will need to complete (a good quality - as determined during data validation by other team members) data extraction/checking from a subset
@@ -104,8 +100,8 @@ You can request to have your details removed or obscured at any time.
 
 Substantial contributions could be achieved by performing the tasks listed below:  
 - Completing extraction of data for the eligible learned societies:   
-    **1 point for each society from  Western/Global North/Minority Countries** 
-    **2 points for each society in Non-Western/Global South/Majority Countries**.   
+    - **1 point** for each society from  Western/Global North/Minority Countries 
+    - **2 points** for each society in Non-Western/Global South/Majority Countries   
 - Note: you can extract as many as you can and we will calculate total points for extractions with your name, except for the societies that have been already extracted by otehr people, e.g. in earlier SORTEE projects).   
 
 Additional contributions that will count towards determining authorship order on the manuscript - providing feedback on the protocol, draft report, or final report (1 point).    

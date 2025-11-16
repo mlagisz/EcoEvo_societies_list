@@ -4,14 +4,14 @@ Creating a global list of EcoEvo-related learned societies
 
 
 
-**Our mission statement:** *Making science more collaborative and transparent.* 🌟  
+*Our mission statement: Making science more collaborative and transparent.* 🌟  
 
   
 
-(If you are reading this on GitHub, you can also see this repository as a webpage [here](https://mlagisz.github.io/EcoEvo_societies_list/)🌍).   
+(If you are reading this on GitHub, you can also see this repository as a webpage [here](https://mlagisz.github.io/EcoEvo_societies_list/) 🌍).   
 
 ## 🔖 Background   
-LLearned societies — professional organizations that unite researchers and academics — play a crucial role in advancing science, fostering collaboration, and supporting professional development. 
+Learned societies — professional organizations that unite researchers and academics — play a crucial role in advancing science, fostering collaboration, and supporting professional development. 
 Globally, thousands of such societies connect scholars in Ecology and Evolutionary biology (Eco-Evo). 
 Yet, no comprehensive or centralised resource currently exists to identity these societies.
 
@@ -36,9 +36,10 @@ Given the contribution requirements for authorship (described below), there are 
 The final number of authors will depend on the individual contributions warranting authorship. The expected time you may spend on this project is expected to be around 2-20 hours in total, across one year (likely duration of this project), but will depend on the number of societies found for data extraction/checking, the final number of contributors, and their speed/quality of work. 
 We welcome and actively encourage the participation of researchers from historically underrepresented and marginalized groups, valuing their unique perspectives and experiences as essential contributions to this work.
 
+For more details on how to contribute and how we deal with recognizing everybody's contributions see our full [CONTRIBUTION GUIDE](/CONTRIBUTING.md).  
+
 We expect all project contributors to familiarize themselves and follow our [CODE OF CONDUCT](/CODE_OF_CONDUCT.md).  
 
-For more details on how to contribute and how we deal with recognizing everybody's contributions see our full [CONTRIBUTION GUIDE](/CONTRIBUTING.md).  
 
 ## 🗺 Workflow
 ![Tentative workflow](SORTEE2025 societies list_project_workflow.png)  
