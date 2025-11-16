@@ -6,6 +6,6 @@ gems:
 relative_links:
   enabled: true
   collections: true
-title: "Survey of EcoEvo societies - DEI structures" 
+title: "List of EcoEvo societies" 
 description: Information about the project
 show_downloads: [true] 
