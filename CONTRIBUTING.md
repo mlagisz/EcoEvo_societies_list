@@ -44,9 +44,9 @@ Authorship comes with all the following contributions and responsibilities:
 - If you are interested in becoming a co-author, you need to fill in the Expression Of Interest (EOI) [form](https://forms.gle/N1ERrvN1GejamYcKA);
 some of the identifying information from this form will be visible to all team members (name, email, languages).
 
+- **The minimum number of points required for authorship is 25.** (see below for the ways to earn the points).
 - You will need to complete (a good quality - as determined during data validation by other team members) data extraction/checking from a subset
-of Eco-Evo learned societies. The minimum number of societies/awards to be extracted/checked (per person) will be determined and communicated
-to team members at the beginning of data extractions.
+of EcoEvo-related learned societies. 
 - Reading and approving the final manuscript draft before submission (feedback is encouraged at every stage of the project). 
 - Timely providing all personal information (e.g. name, affiliation, ORCID, email, languages, society memberships) needed for the submission.
 - Agreeing to be personally accountable for the author’s own contributions.
@@ -68,9 +68,9 @@ Note: First and last authorship positions in the manuscript will be held by the 
 - Non-responsive contributors can be removed from the project team at the discretion of the project leads. Project leads will attempt to contact such contributors via individual emails and messages, providing at least two warnings and at least one week's time to respond.  
 
 
-## 🧱  Contributions by task and people.   
+## 🧱  Contributions by task and people   
 
-Indicative information on who can contribute to which tasks witin this project (this could change as we go):  
+Information on who can contribute to which tasks within this project (this could change as we go):  
 
 - Preparing draft protocol: this is initially done by the project leads.
 - Feedback on the protocol: this is done by the project contributors.
@@ -110,15 +110,18 @@ Additional contributions that will count towards determining authorship order on
 - cross-checking or fixing data extracted by other contributors (50% of the data extraction points).  
 - cross-checking or fixing code (2 points).  
 - feedback on the data extraction form, protocol or report (1 point)
-- other (1 point, at the discretion of the project leads).   
+- other (1 point, at the discretion of the project leads, se the negotaible list of other potential tasks above).   
 
 Contribution Scores will be publicly available to the team members and updated periodically in the project documentation. They may be also included in the final report.
 
-At the  completion of report writing, we will tally scores to determine authorship order. 
+
+
+At the  completion of report writing, we will tally scores to determine authorship order.  
 Contributors with higher total scores will get higher-ranking authorship positions (i.e. closer to the start of the author list).    
 For groups of contributors with equal level of contributions we will assign random order.        
 
-IMPORTANT: Reiterating that Authorship is also conditional on reading and approving the final manuscript draft before submission and providing all personal information (name, affiliation, email, ORCID, etc.) needed for the submission. In the manuscript, first and last authorship positions will be reserved to the project leads (they could be co-first and co-last positions). Subsequent authorship positions will be determined by the total amount and quality of contributions, as documented in the project records. For equal contributions the order of mid-authorship will be randomized (using R code). All authors must read and approve final manuscript draft before submission. The manuscript will contain a CRediT-like statement detailing the roles of individual authors and contributors.   
+IMPORTANT: **The minimum number of points required for authorship is 25.** (see above for the ways to earn the points). 
+Also reiterating that Authorship is also conditional on reading and approving the final manuscript draft before submission and providing all personal information (name, affiliation, email, ORCID, etc.) needed for the submission. In the manuscript, first and last authorship positions will be reserved to the project leads (they could be co-first and co-last positions). Subsequent authorship positions will be determined by the total amount and quality of contributions, as documented in the project records. For equal contributions the order of mid-authorship will be randomized (using R code). All authors must read and approve final manuscript draft before submission. The manuscript will contain a CRediT-like statement detailing the roles of individual authors and contributors.   
 
 
 ## 📍 Final notes   
