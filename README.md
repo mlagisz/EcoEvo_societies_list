@@ -3,12 +3,10 @@
 Creating a global list of EcoEvo-related learned societies
 
 
-
 *Our mission statement: Making science more collaborative and transparent.* 🌟  
 
-  
 
-(If you are reading this on GitHub, you can also see this repository as a webpage [here](https://mlagisz.github.io/EcoEvo_societies_list/) 🌍).   
+(If you are reading this on GitHub, you can also see this repository as a webpage [here](https://mlagisz.github.io/EcoEvo_societies_list/)_🌍).   
 
 ## 🔖 Background   
 Learned societies — professional organizations that unite researchers and academics — play a crucial role in advancing science, fostering collaboration, and supporting professional development. 
