@@ -11,7 +11,7 @@ Creating a global list of EcoEvo-related learned societies
 ## 🔖 Background   
 Learned societies — professional organizations that unite researchers and academics — play a crucial role in advancing science, fostering collaboration, and supporting professional development.  
 Globally, thousands of such societies connect scholars in Ecology and Evolutionary biology (Eco-Evo).   
-Yet, no comprehensive or centralised resource currently exists to identity these societies.    
+Yet, no comprehensive or centralised resource currently exists to identify these societies.    
 
 ## 🏹 Aims and approach  
 This project aims to fill a key gap by systematically collecting and curating basic information on learned societies in Ecology and Evolutionary Biology (Eco-Evo) worldwide.  
@@ -38,7 +38,7 @@ For more details on how to contribute and how we deal with recognizing everybody
 We expect all project contributors to familiarize themselves and follow our [Code of Conduct](/CODE_OF_CONDUCT.md).  
 
 
-## 🗺 Genral workflow of the project
+## 🗺 General workflow of the project
 ![General workflow](SORTEE2025 societies list_project_workflow.png)   
 
 ## 🗺 Genral timeline of the project
@@ -48,7 +48,7 @@ SORTEE2025 societies list_project_timeline
 ![Tentative timeline of the project](SORTEE2025 societies list_project_timeline.png)  
 
 ## 🗺 Decision tree for assessing eligibility of a given society
-![General workflow](SORTEE2025 societies list_project_decisiontree_v1.png)
+![General workflow](SORTEE2025 societies list_project_decisiontree_v2.png)
 
 ## ☝️ List of international societies from an earlier SORTEE project  
 List of international societies from an earlier SORTEE project is available [here](/LIST_INTERNAT_ECOEVO_SOC.md)   
@@ -64,7 +64,7 @@ Final protocol will be publicly archived on OSF.org [LINK to be added].
 Supporting information for this project will be publicly available at [LINK to be added].    
 
 ## 💻 Data and code files      
-A copy of our final data and code files will be publicly availabe at [LINK to be added].     
+A copy of our final data and code files will be publicly available at [LINK to be added].     
 
 ## ⏰ Code of Conduct   
 We expect all project contributors to familiarize themselves and follow our [Code of Conduct](/CODE_OF_CONDUCT.md).      
