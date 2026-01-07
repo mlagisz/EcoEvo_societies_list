@@ -57,15 +57,15 @@ Note: First and last authorship positions in the manuscript will be held by the 
 - You do not need any special research skills – just attention to detail, internet access and some time available. A background in ecology or evolution (any level and speciality) is encouraged given the disciplinary scope of the work, but is not required.  
 - We value linguistic diversity and **strongly encourage contributors to extract information from societies in any language(s) they are proficient in**. We aim to include societies from diverse countries and with websites in languages other than English. Please indicate your language skills in the EOI form.   
 - You can contribute by providing constructive feedback on this protocol or later during data collection, analyses, writing up, etc. For authorship, you will need to fulfill additional requirements, as specified above.  
-- We had our first virtual hackathon during the SORTEE (Society for Open, Reliable, Transparent Ecology and Evolutionary Biology) conference in October 2025. We will have an additional virtual hackathon in early December 2025. Participation in hackathons in recommended, but not mandatory. 
-- We can schedule additional meetings with the project leads and/or other project contributors on request from team members. Participation in a hackathon is not compulsory.  
+- We had our first virtual hackathon during the SORTEE (Society for Open, Reliable, Transparent Ecology and Evolutionary Biology) conference in October 2025. We had an additional virtual hackathon in early December 2025. Participation in hackathons in recommended, but not mandatory. 
+- We can schedule additional meetings with the project leads and/or other project contributors on request from team members. Participation in online meetings is not compulsory and project materials are shared withingn the team members via other communication channels.  
 - To ensure both inclusive participation and flexibility, all work can be completed asynchronously online and using various electronic communication channels. However, you will need to be mindful of any deadlines set by the project leads, so that you do not delay or stall the project, and communicate early if you need more time for a given task.  
 - We expect all project contributors to familiarize themselves with and follow our [Code of Conduct](/CODE_OF_CONDUCT.md).  
 - We will provide instructions for each project stage and tasks for the contributors. We will periodically send you updates on the project progress.   
 - Email will be our primary communication channel. While we will also use online comments and Slack (SORTEE workspace: https://sortee.slack.com/archives/C09HUSZE9NC ), all official project information will be communicated via email. Contributors should primarily check their email for project-related communications.  
 - Let us know when you are stuck or you do not have time to finish a given task, so we can find a replacement and keep moving forward. 
 - You can withdraw from the project at any time (but please let us know if you do!).   
-- Non-responsive contributors can be removed from the project team at the discretion of the project leads. Project leads will attempt to contact such contributors via individual emails and messages, providing at least two warnings and at least one week's time to respond.  
+- Non-responsive or disruptive contributors can be removed from the project team at the discretion of the project leads. Project leads will attempt to contact such contributors via individual emails and messages, providing at least two warnings and at least one week's time to respond.  
 
 
 ## 🧱  Contributions by task and people   
@@ -119,15 +119,14 @@ Additional contributions that will count towards determining authorship order on
 - feedback on the data extraction form, protocol or report (1 point)
 - other (1 point, at the discretion of the project leads, see the negotiable list of other potential tasks above).   
 
-Contribution Scores will be publicly available to the team members and updated periodically in the project documentation. They may be also included in the final report.
-
+Contribution Scores will be publicly available to the team members and updated periodically in the project documentation. They may be also included in the final report.  
 
 
 At the  completion of report writing, we will tally scores to determine authorship order.  
 Contributors with higher total scores will get higher-ranking authorship positions (i.e. closer to the start of the author list).    
 For groups of contributors with equal level of contributions we will assign random order.        
 
-IMPORTANT: **The minimum number of points required for authorship is 25.** (see above for the ways to earn the points). 
+IMPORTANT: **The minimum number of points required for authorship is 25.** (see above for the ways to earn the points).  
 Also reiterating that authorship is also conditional on reading and approving the final manuscript draft before submission and providing all personal information (name, affiliation, email, ORCID, etc.) needed for the submission. In the manuscript, first and last authorship positions will be reserved to the project leads (they could be co-first and co-last positions). Subsequent authorship positions will be determined by the total amount and quality of contributions, as documented in the project records. For equal contributions the order of mid-authorship will be randomized (using R code). All authors must read and approve final manuscript draft before submission. The manuscript will contain a CRediT-like statement detailing the roles of individual authors and contributors.   
 
 
