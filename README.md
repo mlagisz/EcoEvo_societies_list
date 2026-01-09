@@ -45,7 +45,7 @@ We expect all project contributors to familiarize themselves and follow our [Cod
 SORTEE2025 societies list_project_timeline
 
 ## 📅 Timeline
-![Tentative timeline of the project](SORTEE2025 societies list_project_timeline.png)  
+![Tentative timeline of the project](SORTEE2025 societies list_project_timeline_v3.png)  
 
 ## 🗺 Decision tree for assessing eligibility of a given society
 ![General workflow](SORTEE2025 societies list_project_decisiontree_v2.png)
