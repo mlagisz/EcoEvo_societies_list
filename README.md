@@ -23,7 +23,7 @@ This project aims to fill a key gap by systematically collecting and curating ba
 
 ## 💎 Team  
 * We have a diverse and open team of early- and mid-career researchers contributing to this project.   
-* Please get in touch if you are interested in contributing to this and/or future projects.   
+* Please get in touch if you are interested in contributing to this and/or future projects (see our details below).   
 
 ## 💛 Contributing  
  
@@ -58,13 +58,13 @@ List of international societies from an earlier SORTEE project is available [her
 Registering protocol and starteing data collection.   
 
 ## 🚀 Protocol   
-Final protocol will be publicly archived on OSF.org [LINK to be added].   
+Final protocol is now publicly registered on [OSF](https://doi.org/10.17605/OSF.IO/E5G9J).   
 
 ## 🚚 Supporting information 
-Supporting information for this project will be publicly available at [LINK to be added].    
+Supporting information for this project will be publicly available at project completion[LINK to be added later].    
 
 ## 💻 Data and code files      
-A copy of our final data and code files will be publicly available at [LINK to be added].     
+A copy of our final data and code files will be publicly available at project completion [LINK to be added later].     
 
 ## ⏰ Code of Conduct   
 We expect all project contributors to familiarize themselves and follow our [Code of Conduct](/CODE_OF_CONDUCT.md).      
