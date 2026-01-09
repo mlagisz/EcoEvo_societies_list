@@ -45,10 +45,10 @@ We expect all project contributors to familiarize themselves and follow our [Cod
 SORTEE2025 societies list_project_timeline
 
 ## 📅 Timeline
-![Tentative timeline of the project](SORTEE2025 societies list_project_timeline_v3.png)  
+![Tentative timeline of the project](SORTEE2025 societies list_project_timeline.png)  
 
 ## 🗺 Decision tree for assessing eligibility of a given society
-![General workflow](SORTEE2025 societies list_project_decisiontree_v2.png)
+![General workflow](SORTEE2025 societies list_project_decisiontree.png)
 
 ## ☝️ List of international societies from an earlier SORTEE project  
 List of international societies from an earlier SORTEE project is available [here](/LIST_INTERNAT_ECOEVO_SOC.md)   
