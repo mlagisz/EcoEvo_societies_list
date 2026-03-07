@@ -55,7 +55,7 @@ List of international societies from an earlier SORTEE project is available [her
 
 
 ## 🚉 Current status    
-Registering protocol and starteing data collection.   
+Data collection ongoing.   
 
 ## 🚀 Protocol   
 Final protocol is now publicly registered on [OSF](https://doi.org/10.17605/OSF.IO/E5G9J).   
